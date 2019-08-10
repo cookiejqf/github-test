@@ -1,3 +1,7 @@
+.idea
+.project
+.rebel.xml
+
 # Compiled class file
 *.class
 
